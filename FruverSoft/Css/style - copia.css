@@ -1,0 +1,25 @@
+.stilepro {
+    color: #00b347;
+    text-align: center;
+} 
+
+ table, td, th {
+    border:1px solid black;
+    margin: auto;
+  }
+  table {
+    border-collapse:collapse;
+    width:90%;
+  }
+  td, th {
+    padding:5px;
+  }
+  thead {
+    color:navy;
+  }
+  tbody {
+    color:green;
+  }
+  tfoot {
+    color:maroon;
+  } 

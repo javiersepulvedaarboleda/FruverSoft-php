@@ -1,0 +1,22 @@
+.stilepro {
+    font-family: 'Dancing Script', cursive;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #00b347;
+} 
+.table {
+    width:90%;
+    margin: auto;
+  }
+.jumbotron{
+    height:180px;
+    color: whitesmoke;
+    background-color: #00b347;
+    padding:30px;
+    margin-top: 15px;
+}
+.form-group{
+
+    text-align: justify; 
+}
+ 
